@@ -1,0 +1,20 @@
+# Este .gitignore evita subir archivos de compilación, configuraciones del IDE y otros archivos irrelevantes al repositorio.
+
+# Ignorar la carpeta de compilación de Maven
+/target/
+/out/
+
+# Ignorar configuraciones del IDE
+/.idea/
+/*.iml
+*.classpath
+*.project
+*.settings/
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar logs y archivos temporales
+*.log
+*.tmp
