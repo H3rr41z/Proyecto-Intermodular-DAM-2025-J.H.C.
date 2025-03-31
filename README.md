@@ -45,7 +45,7 @@ Si prefieres ejecutarlo desde un entorno de desarrollo como IntelliJ IDEA o Ecli
 
 ## Estructura del repositorio
 ```plaintext
-/proyecto-intermodular-dam-2025  
+/proyecto-intermodular-dam-2025-J.H.C.  
 │── /documentacion/       # Informes, análisis, planificación y diseño  
 │── /src/                # Código fuente del proyecto  
 │    ├── /main/          # Código principal de la aplicación  
