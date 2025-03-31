@@ -43,6 +43,25 @@ Una vez compilado, puedes ejecutar la aplicación con el siguiente comando:
 Si prefieres ejecutarlo desde un entorno de desarrollo como IntelliJ IDEA o Eclipse, abre el proyecto como un proyecto Maven y ejecuta la clase principal desde el IDE.
 </p>
 
+## Estructura del repositorio
+```plaintext
+/proyecto-intermodular-dam-2025  
+│── /documentacion/       # Informes, análisis, planificación y diseño  
+│── /src/                # Código fuente del proyecto  
+│    ├── /main/          # Código principal de la aplicación  
+│    ├── /controllers/   # Controladores de la aplicación  
+│    ├── /models/        # Modelos de datos  
+│    ├── /views/         # Interfaces de usuario (FXML)  
+│── /recursos/           # Imágenes, diagramas, iconos, vídeos y otros materiales  
+│── /presentacion/       # Material para la presentación final (diapositivas, demo, etc.)  
+│── /tests/              # Pruebas unitarias y funcionales  
+│── /config/             # Archivos de configuración  
+│── README.md            # Descripción del proyecto  
+│── pom.xml              # Archivo de configuración de Maven  
+│── .gitignore           # Archivos a excluir del control de versiones  
+│── LICENSE              # Archivo opcional de licencia 
+```
+
 ## Autores
 **Javier Herraiz Calatayud**
 
