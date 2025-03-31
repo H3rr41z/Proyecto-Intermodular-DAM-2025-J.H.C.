@@ -46,7 +46,7 @@ Si prefieres ejecutarlo desde un entorno de desarrollo como IntelliJ IDEA o Ecli
 ## Autores
 **Javier Herraiz Calatayud**
 
-<sub>Estudiante de 1º de Desarrollo de Aplicaciones Multiplataforma (DAM)</sub>
+<sup>Estudiante de 1º de Desarrollo de Aplicaciones Multiplataforma (DAM)</sup>
 
 
    
