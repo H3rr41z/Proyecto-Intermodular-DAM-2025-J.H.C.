@@ -1,2 +1,2 @@
 > [!NOTE]
-> Material para la presentación final (diapositivas, demo, etc.) 
+> MATERIAL PARA LA PRESENTACIÓN FINAL (DIAPOSITIVAS, DEMO, ETC.)
