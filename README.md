@@ -25,14 +25,14 @@ Antes de instalar y ejecutar la aplicación, asegúrate de tener instalados los 
 
 ### Instalación
 1. Clonar el repositorio desde GitHub:
-   ```bash
-      git clone https://github.com/H3rr41z/proyecto-intermodular-dam-2025.git
-      cd proyecto-intermodular-dam-2025
-   ```
+```bash
+   git clone https://github.com/H3rr41z/proyecto-intermodular-dam-2025.git
+   cd proyecto-intermodular-dam-2025
+```
 2. Compilar y construir el proyecto con Maven:
- ```bash
+```bash
       mvn clean package
-   ```
+```
 ### Ejecuión
 Una vez compilado, puedes ejecutar la aplicación con el siguiente comando:
 ```bash
@@ -43,7 +43,7 @@ Si prefieres ejecutarlo desde un entorno de desarrollo como IntelliJ IDEA o Ecli
 </p>
 
 ## Autores
-**Javier Herraiz Calatayud **
+**Javier Herraiz Calatayud**
 _Estudiante de 1º de Desarrollo de Aplicaciones Multiplataforma (DAM)_
 
 
