@@ -12,6 +12,25 @@ El proyecto consiste en una aplicación diseñada para ayudar a los usuarios a o
 El objetivo principal es integrar los conocimientos adquiridos en diferentes módulos del curso para desarrollar una solución completa y funcional.
 </p>
 
+## Estructura del repositorio
+```plaintext
+/proyecto-intermodular-dam-2025-J.H.C.  
+│── /documentacion/      # Informes, análisis, planificación y diseño  
+│── /src/                # Código fuente del proyecto  
+│    ├── /main/          # Código principal de la aplicación  
+│    ├── /controllers/   # Controladores de la aplicación  
+│    ├── /models/        # Modelos de datos  
+│    ├── /views/         # Interfaces de usuario (FXML)  
+│── /recursos/           # Imágenes, diagramas, iconos, vídeos y otros materiales  
+│── /presentacion/       # Material para la presentación final (diapositivas, demo, etc.)  
+│── /tests/              # Pruebas unitarias y funcionales  
+│── /config/             # Archivos de configuración  
+│── README.md            # Descripción del proyecto  
+│── pom.xml              # Archivo de configuración de Maven  
+│── .gitignore           # Archivos a excluir del control de versiones  
+│── LICENSE              # Archivo opcional de licencia 
+```
+
 ## Tecnologías utilizadas
 - Lenguaje de programación: **Java**
 - Frameworks y librerías: **JavaFX** para la interfaz gráfica
@@ -34,7 +53,7 @@ Antes de instalar y ejecutar la aplicación, asegúrate de tener instalados los 
 ```bash
       mvn clean package
 ```
-### Ejecuión
+### Ejecución
 Una vez compilado, puedes ejecutar la aplicación con el siguiente comando:
 ```bash
     java -jar target/proyecto-intermodular-dam-2025.jar
@@ -42,25 +61,6 @@ Una vez compilado, puedes ejecutar la aplicación con el siguiente comando:
 <p align="justify">
 Si prefieres ejecutarlo desde un entorno de desarrollo como IntelliJ IDEA o Eclipse, abre el proyecto como un proyecto Maven y ejecuta la clase principal desde el IDE.
 </p>
-
-## Estructura del repositorio
-```plaintext
-/proyecto-intermodular-dam-2025-J.H.C.  
-│── /documentacion/      # Informes, análisis, planificación y diseño  
-│── /src/                # Código fuente del proyecto  
-│    ├── /main/          # Código principal de la aplicación  
-│    ├── /controllers/   # Controladores de la aplicación  
-│    ├── /models/        # Modelos de datos  
-│    ├── /views/         # Interfaces de usuario (FXML)  
-│── /recursos/           # Imágenes, diagramas, iconos, vídeos y otros materiales  
-│── /presentacion/       # Material para la presentación final (diapositivas, demo, etc.)  
-│── /tests/              # Pruebas unitarias y funcionales  
-│── /config/             # Archivos de configuración  
-│── README.md            # Descripción del proyecto  
-│── pom.xml              # Archivo de configuración de Maven  
-│── .gitignore           # Archivos a excluir del control de versiones  
-│── LICENSE              # Archivo opcional de licencia 
-```
 
 ## Autores
 **Javier Herraiz Calatayud**
